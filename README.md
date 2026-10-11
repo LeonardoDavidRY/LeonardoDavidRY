@@ -96,41 +96,46 @@ Mantenimiento preventivo y correctivo de equipos, diagnóstico de fallas de hard
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Health Ecuadorian System</h3>
-      <p>Aplicación web para la gestión de atención médica, con módulos de citas, horarios médicos, inventario de medicamentos e insumos y facturación.</p>
-      <p><strong>Tecnologías:</strong> Java, Spring Boot, PostgreSQL, JPA y Thymeleaf.</p>
-      <a href="https://github.com/LeonardoDavidRY?tab=repositories">Explorar repositorios →</a>
+      <h3>✈️ Sistema de gestión de una aerolínea</h3>
+      <p>Aplicación web para la gestión de una aerolínea, desarrollada con Vue.js como parte de un proyecto de software.</p>
+      <p><strong>Tecnologías:</strong> Vue.js, JavaScript, HTML y CSS.</p>
+      <p>
+        <a href="https://github.com/LeonardoDavidRY/pw_vue_p9_g4">Ver repositorio →</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚗 Gestión vehicular móvil</h3>
-      <p>Aplicación móvil para autenticación, consulta y registro de vehículos, con integración de servicios backend y almacenamiento local.</p>
-      <p><strong>Tecnologías:</strong> Ionic, Angular, TypeScript, Capacitor y Quarkus.</p>
-      <a href="https://github.com/LeonardoDavidRY?tab=repositories">Explorar repositorios →</a>
+      <h3>🌐 Sistema de microservicios</h3>
+      <p>Arquitectura de servicios backend para la gestión de autores, libros y clientes, con comunicación entre servicios y herramientas de descubrimiento y enrutamiento.</p>
+      <p><strong>Tecnologías:</strong> Java, Quarkus, PostgreSQL, Docker, Consul y Traefik.</p>
+      <p>
+        <a href="https://github.com/LeonardoDavidRY/grupal_final">Ver repositorio →</a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Sistema de microservicios</h3>
-      <p>Arquitectura de servicios para la gestión de autores, libros y clientes, con descubrimiento de servicios, enrutamiento y monitoreo.</p>
-      <p><strong>Tecnologías:</strong> Java, Quarkus, PostgreSQL, Docker, Consul y Traefik.</p>
-      <a href="https://github.com/LeonardoDavidRY?tab=repositories">Explorar repositorios →</a>
+      <h3>📊 Analítica de visitantes</h3>
+      <p>Aplicación de visualización de datos de visitantes mediante gráficos temporales, mapas de calor y representación geográfica de zonas de interés.</p>
+      <p><strong>Tecnologías:</strong> Vue.js, JavaScript, Tailwind CSS y Leaflet.</p>
+      <p>
+        <a href="https://github.com/LeonardoDavidRY/visitor_analytics">Ver repositorio →</a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 Analítica de visitantes</h3>
-      <p>Interfaz de visualización de datos de visitantes mediante gráficos temporales, mapas de calor y representación geográfica de zonas de interés.</p>
-      <p><strong>Tecnologías:</strong> Vue.js, JavaScript, Tailwind CSS y Leaflet.</p>
-      <a href="https://github.com/LeonardoDavidRY?tab=repositories">Explorar repositorios →</a>
+      <h3>💻 Más proyectos</h3>
+      <p>Explora mis repositorios para conocer otros proyectos académicos y personales relacionados con el desarrollo de software.</p>
+      <p>
+        <a href="https://github.com/LeonardoDavidRY?tab=repositories">Ver todos mis repositorios →</a>
+      </p>
     </td>
   </tr>
 </table>
 
 <p align="center">
   <a href="https://github.com/LeonardoDavidRY?tab=repositories">
-    <img src="https://img.shields.io/badge/Ver_todos_mis_proyectos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos mis proyectos"/>
+    <img src="https://img.shields.io/badge/Explorar%20mis%20proyectos-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis proyectos"/>
   </a>
 </p>
-
----
 
 ## 📈 Estadísticas de GitHub
 
