@@ -1,11 +1,7 @@
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=200&section=header&text=Leonardo%20David%20Ram%C3%ADrez&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20%7C%20Frontend%20%26%20Web%20Development&descAlignY=58&descSize=14"
-    width="100%"
-    alt="Leonardo David Ramírez - Frontend y desarrollo web"
-  />
+  <h2> "Leonardo David Ramírez - Frontend y desarrollo web"</h2>
 
   <h3>Ingeniería en Ciencias de la Computación</h3>
   <p>Estudiante de la Universidad Central del Ecuador · Quito, Ecuador</p>
