@@ -37,25 +37,24 @@ Cuento con experiencia preprofesional en el desarrollo y mantenimiento de sistem
 ### 💻 Tecnologías utilizadas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,angular,ionic,java,spring,postgres,git,github,vscode" alt="Tecnologías utilizadas"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,java,spring,postgres,git,github,vscode" alt="Tecnologías utilizadas"/>
 </p>
 
 ### 📚 Tecnologías en aprendizaje y profundización
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs" alt="Tecnologías en aprendizaje"/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,nodejs" alt="Tecnologías en aprendizaje"/>
 </p>
 
 ### ⚙️ Otras tecnologías y áreas de conocimiento
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,docker,aws,linux" alt="Otras tecnologías"/>
+  <img src="https://skillicons.dev/icons?i=python,docker,aws,linux" alt="Otras tecnologías"/>
 </p>
 
 - **Backend:** Spring Boot, Quarkus y Node.js.
 - **Bases de datos:** PostgreSQL y SQLite.
 - **Desarrollo web:** HTML5, CSS3, JavaScript y consumo de APIs REST.
-- **Computación paralela:** C++, MPI, OpenMP y CUDA.
 - **Infraestructura y monitoreo:** Docker, Consul, Traefik, Prometheus y Grafana.
 
 <p>
